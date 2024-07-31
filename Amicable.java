@@ -24,3 +24,21 @@ public class Amicable {
 
     }
 }
+
+
+
+
+
+/*
+Read integer n using sc.nextInt().
+Read integer m using sc.nextInt().
+Initialize sumN to 0.
+Initialize sumM to 0.
+Check if n % i == 0.
+If true, add i to sumN.
+Check if m % j == 0.
+If true, add j to sumM.
+Check if sumN == m and sumM == n:
+If true, print "Amicable".
+Else, print "Not Amicable".
+*/
