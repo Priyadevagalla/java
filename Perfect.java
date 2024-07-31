@@ -24,3 +24,24 @@ public class Perfect
         }
 }
 }
+
+
+
+/*
+steps:
+1. Read an integer n  from the user.
+2. Initialize a variable `sum` to 0.
+3. Use a for loop to iterate from 1 to  n-1 :
+   1. Check if n % i == 0  if  i  is a divisor of  n .
+   2. If true, add  i  to `sum`.
+4. After the loop, compare `sum` with  n .
+5. If `sum` equals n, print "perfect number".
+6. Otherwise, print "not perfect number".
+*/
+
+
+
+
+
+
+
